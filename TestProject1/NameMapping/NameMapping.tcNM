@@ -15,7 +15,7 @@
 					<Child Name="notepad" Key="{9DFB862B-513E-40BA-A1C8-C5B5DA7BA89B}" ParallelWalk="True">
 						<Properties>
 							<Property Name="ProcessName">
-								<Value PropertyType="0" Value="notepad" Type="5" />
+								<Value PropertyType="0" Value="notepaduu" Type="5" />
 							</Property>
 						</Properties>
 						<Children>
@@ -23,7 +23,7 @@
 								<Image FileName="-340287324" Left="0" Top="0" Right="1389" Bottom="878" />
 								<Properties>
 									<Property Name="WndClass">
-										<Value PropertyType="0" Value="Notepad" Type="5" />
+										<Value PropertyType="0" Value="Notepadiuhi" Type="5" />
 									</Property>
 								</Properties>
 								<Children>
@@ -32,7 +32,7 @@
 										<TypeInfo Item0="{223DFDF3-A42F-480C-9877-C748A6B792EB}" />
 										<Properties>
 											<Property Name="WndClass">
-												<Value PropertyType="0" Value="Edit" Type="5" />
+												<Value PropertyType="0" Value="Edituhih" Type="5" />
 											</Property>
 										</Properties>
 									</Child>
@@ -45,7 +45,7 @@
 										<Value PropertyType="0" Value="#32770" Type="5" />
 									</Property>
 									<Property Name="WndCaption">
-										<Value PropertyType="0" Value="Save As" Type="5" />
+										<Value PropertyType="0" Value="Save Asjfuygu" Type="5" />
 									</Property>
 								</Properties>
 								<Children>
