@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{EC63D129-6294-433F-ACC2-466C098CF223}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43530.0790162037" objectName="Aliases.browser.pageSean4311TestcompleteGitTest" objectLeft="0" objectTop="103" objectRight="1920" objectBottom="1040" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2207765133440.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="43530.0793518519" objectName="Aliases.browser.pageGoogle.formTsf.panel.panelA8sbwf.panelRnnxgbSbfc.panelSdkep.textboxQ" objectLeft="471" objectTop="390" objectRight="970" objectBottom="421" clickPointX="538" clickPointY="413" imageFileName="tcvi2236468182081.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="43530.0793634259" objectName="Aliases.browser.pageGoogle.formTsf.panel.panelA8sbwf.panelRnnxgbSbfc.panelSdkep.textboxQ" objectLeft="471" objectTop="390" objectRight="970" objectBottom="421" clickPointX="-501" clickPointY="-274" imageFileName="tcvi2237890182082.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43530.0794212963" objectName="Aliases.browser.pageGoogle.formTsf.panel.panelA8sbwf.panelRnnxgbSbfc.panelSdkep.textboxQ" objectLeft="463" objectTop="390" objectRight="962" objectBottom="421" clickPointX="-501" clickPointY="-274" imageFileName="tcvi22378901820821.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
