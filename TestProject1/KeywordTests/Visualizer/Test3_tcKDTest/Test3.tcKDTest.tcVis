@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9EB7CF0B-63CB-4852-B4EF-DC50C20A5D6B}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43530.0850694444" objectName="Aliases.browser.pageSean4311TestcompleteGitTest.panel.panel.details.panel.panel.panel.panel.textbox" objectLeft="1115" objectTop="526" objectRight="1398" objectBottom="554" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2730000133440.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="43530.0854398148" objectName="Aliases.browser.pageYahoo.formUhSearchForm.textboxUhSearchBox" objectLeft="556" objectTop="168" objectRight="1113" objectBottom="214" clickPointX="894" clickPointY="185" imageFileName="tcvi2762218197241.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="43530.0854513889" objectName="Aliases.browser.pageYahoo.formUhSearchForm.textboxUhSearchBox" objectLeft="556" objectTop="168" objectRight="1113" objectBottom="214" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2763546197242.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43530.0855208333" objectName="Aliases.browser.pageYahoo.formUhSearchForm.textboxUhSearchBox" objectLeft="556" objectTop="168" objectRight="1113" objectBottom="214" clickPointX="-1" clickPointY="-1" imageFileName="tcvi27635461972421.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
